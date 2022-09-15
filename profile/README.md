@@ -1,8 +1,6 @@
-# æternity - A Blockchain for the Masses
-
-Engineered to scale and last, æternity is a blockchain protocol and a smart contract platform that goes beyond what traditional blockchains do. It is designed to be fault-tolerant and perfect for cases with billions of transactions in DeFi and more.
-
-With numerous innovative functionalities and performance far ahead of earlier blockchains, æternity allows its users and community to seamlessly venture into the new era of society, economy, and digital interactions.
+<p>
+  <img src='https://raw.githubusercontent.com/aeternity/.github/master/profile/header.png'>
+</p>
 
 ## Get started now!
 

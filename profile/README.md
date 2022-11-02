@@ -29,8 +29,8 @@ Compatible with latest æternity version:
 There are outdated SDKs available which are in most cases not compatible to the latest release. If you have an urgent need for one of the following SDKs or any other programming language let us know!
 
 - <a href='https://github.com/aeternity/aepp-sdk-python' target='_blank'>aepp-sdk-python</a> - Python SDK
-- <a href='https://github.com/aeternity/aepp-sdk-go' target='_blank'>aepp-sdk-go</a> - Python SDK
-- <a href='https://github.com/aeternity/aepp-sdk-elixir' target='_blank'>aepp-sdk-elixir</a> - Python SDK
+- <a href='https://github.com/aeternity/aepp-sdk-go' target='_blank'>aepp-sdk-go</a> - Go SDK
+- <a href='https://github.com/aeternity/aepp-sdk-elixir' target='_blank'>aepp-sdk-elixir</a> - Elixir SDK
 
 ### CLIs
 - <a href='https://github.com/aeternity/aepp-cli-js' target='_blank'>aepp-cli-js</a> - CLI for the æternity blockchain

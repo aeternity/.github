@@ -35,7 +35,6 @@ There are outdated SDKs available which are in most cases not compatible to the 
 ### CLIs
 - <a href='https://github.com/aeternity/aepp-cli-js' target='_blank'>aepp-cli-js</a> - CLI for the æternity blockchain
 - <a href='https://github.com/aeternity/aesophia_cli' target='_blank'>aesophia_cli</a> - CLI for the Sophia compiler
-- <a href='https://github.com/aeternity/musig_cli' target='_blank'>musig_cli</a> - CLI for MultiSig
 
 </details>
 

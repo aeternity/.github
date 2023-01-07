@@ -66,7 +66,6 @@ There are outdated SDKs available which are in most cases not compatible to the 
 - <a href='https://github.com/aeternity/AEXs/blob/master/AEXS/aex-141.md' target='_blank'>AEX-141</a> - NFT-Standard inspired by ERC-721
 
 ### Example implementations
-
 #### DeFi
 - <a href='https://github.com/aeternity/aeternity-fungible-token' target='_blank'>aeternity-fungible-token</a> - Reference implementation of the AEX-9 standard
 - <a href='https://github.com/mradkov/aeternity-token-sale-example' target='_blank'>aeternity-token-sale-example</a> - Simple token sale example
@@ -79,8 +78,8 @@ There are outdated SDKs available which are in most cases not compatible to the 
 - <a href='https://github.com/aeternity/aex141-nft-collection-example' target='_blank'>aex141-nft-collection-example</a> - Example NFT collection using the AEX-141 standard
 - <a href='https://github.com/aeternity/aex141-examples' target='_blank'>aex141-examples</a> - Further example implementations of the AEX-141 standard
 
-#### Gaming
-- <a href='https://github.com/aeternity/state-channel-demo' target='_blank'>state-channel-demo</a> - Official State Channel Demo that includes a ***Rock, Paper, Scissors*** game contract
+#### State Channel Demo (Game)
+- <a href='https://github.com/aeternity/state-channel-demo' target='_blank'>state-channel-demo</a> - Aeterity turing-complete State Channel Demo game that includes a ***Rock, Paper, Scissors*** game contract. Boilerplate for developers to create own State-Channel applications. 
 
 #### MultiSig
 - <a href='https://github.com/aeternity/ga-multisig-contract' target='_blank'>ga-multisig-contract</a> - Smart Contract that can be used to convert a regular, plain-old account (POA) into a MultiSig account using the Generalized Account feature of æternity
@@ -91,7 +90,7 @@ There are outdated SDKs available which are in most cases not compatible to the 
 </details>
 
 <details>
-  <summary>Web3 Starter-Kits</summary>
+  <summary>æternity development Starter-Kits</summary>
 
 ### Wallets
 - <a href='https://github.com/aeternity/superhero-wallet' target='_blank'>superhero-wallet</a> - The most advanced æternity wallet implementation which is available on desktop as browser extension for Chrome & Firefox as well as on mobile for Android & iOS.
@@ -100,6 +99,7 @@ There are outdated SDKs available which are in most cases not compatible to the 
 - <a href='https://github.com/YinkaEnoch/aepp-boilerplate-angular' target='_blank'>aepp-boilerplate-angular</a> - Angular æpp boilerplate showcasing the usage of SDK to connect to Superhero Wallet
 - <a href='https://github.com/emmanuelJet/aepp-boilerplate-react' target='_blank'>aepp-boilerplate-react</a> - React æpp boilerplate showcasing the usage of SDK to connect to Superhero Wallet
 - <a href='https://github.com/aeternity/aepp-boilerplate-vue' target='_blank'>aepp-boilerplate-vue</a> - Vue æpp boilerplate showcasing the usage of SDK to connect to Superhero Wallet
+- State-Channel demo (game) (see above)
 
 </details>
 
